@@ -4,6 +4,8 @@ La **mappa logistica** (*logistic map*) è un modello matematico discreto e non 
 
 La sua caratteristica più sorprendente è che una formula estremamente semplice può generare comportamenti che vanno dalla convergenza verso un valore stabile fino a oscillazioni periodiche e sequenze apparentemente casuali.
 
+[PROVA SUBITO LA SIMULAZIONE](https://sites.google.com/view/mappalogisticagr/full-page-embed "WEBAPP: MAPPA LOGISTICA")
+
 ## 1. La formula matematica
 
 La mappa logistica è definita dalla relazione ricorsiva:
