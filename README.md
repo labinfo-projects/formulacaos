@@ -6,6 +6,8 @@ La sua caratteristica più sorprendente è che una formula estremamente semplice
 
 [PROVA SUBITO LA SIMULAZIONE](https://sites.google.com/view/mappalogisticagr/full-page-embed "WEBAPP: MAPPA LOGISTICA")
 
+Vedi anche il progetto correlato [MAPPA LOGISTICA](https://github.com/labinfo-projects/mappalogistica)
+
 ## 1. La formula matematica
 
 La mappa logistica è definita dalla relazione ricorsiva:
